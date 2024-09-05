@@ -58,7 +58,6 @@ The project focuses on developing an advanced robotic arm capable of performing 
 - `SolidWorks/` - Contains SolidWorks design files and CAD models.
 - `MATLAB/` - Contains MATLAB Simulink files and simulation data.
 - `Documentation/` - Includes detailed project documentation and reports.
-- `Scripts/` - Contains any scripts or code used in simulations and control.
 
 ## Getting Started
 
