@@ -9,7 +9,7 @@ This repository contains the development and design details for a robotic arm in
 - **U.H.A.I Srimal** 
 - **Thanalakshan S** 
 - **Tharaka D.G**
-- 
+ 
 All authors are from the Department of Electrical Engineering, University of Moratuwa.
 
 ## Abstract
